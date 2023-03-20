@@ -1,0 +1,16 @@
+{
+  "title": ".page-header__title",
+  "daysWeek": ".page-nav__day",
+  "email": "[name='email']",
+  "password": "[name='password']",
+  "buttonLoginIn": ".login__button",
+  "chooseFilm": ".movie",
+  "hallOpening": "#start-sales",
+  "chooseTimeSession": "a.page-nav__day:nth-of-type(6)",
+  "chooseChair": ".buying-scheme__wrapper > :nth-child(2) > :nth-child(5)",
+  "pushButton": ".acceptin-button",
+  "nameHall": "data.newHall",
+  "timeSession": "10:00",
+  "timeSessionForEqual": "Начало сеанса: 10:00",
+  "takeTicket": "Электронный билет"
+}

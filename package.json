@@ -1,0 +1,21 @@
+{
+  "name": "7.7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:all": "cypress run --record --key c56a1da8-2d6c-46f4-94e7-da0a43c7c386"
+      },
+  "keywords": [
+      "cypress"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+      "cypress": "^10.6.0",
+      "cypress-parallel": "^0.9.0"
+  },
+  "devDependencies": {
+      "cypress-file-upload": "^5.0.8"
+  }
+}
